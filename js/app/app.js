@@ -1,3 +1,3 @@
 angular
   .module('app', [ngRoute])
-  .controller('MainController')
+  .controller('MainController', MainController);
